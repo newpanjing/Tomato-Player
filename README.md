@@ -6,7 +6,7 @@ a video player
 
 Player Source：
 
-[https://github.com/imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+[https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/tree/master/m3u](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/tree/master/m3u)
 
 
 播放源建议大家去淘宝购买，比较稳定。
